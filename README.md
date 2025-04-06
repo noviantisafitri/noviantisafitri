@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Novianti Safitri and I'm an Information Systems student, Android Developer, and UI/UX Designer from Indonesia.</h2>
+<h2 align="left">
+  Hi 👋! I'm Novianti Safitri — an Information Systems student from Indonesia who is passionate about technology.<br>
+</h2>
+<p align="left">
+  I'm currently learning software development with a focus on Android, UI/UX design, and exploring the fundamentals of machine learning.
+</p>
 
 ###
 
